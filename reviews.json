@@ -1,0 +1,50 @@
+[
+    {
+      "avatar": "assets/images/reviews/avatar1.jpg",
+      "location": "Dubai, UAE",
+      "review": "I found my dream job through Alghurabi Manpower Services! The website made it easy to search and apply for positions.",
+      "name": "Sara Ahmed"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar2.webp",
+      "location": "Lahore, Pakistan",
+      "review": "As an electrician, I was looking for opportunities abroad. This website connected me with a great employer in Dubai!",
+      "name": "Muhammad Khan"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar3.jpg",
+      "location": "Mumbai, India",
+      "review": "Alghurabi Manpower Services provided excellent support throughout the hiring process. I'm grateful for their assistance.",
+      "name": "Priya Patel"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar4.jpg",
+      "location": "Nairobi, Kenya",
+      "review": "The website's user-friendly interface made job hunting stress-free. I highly recommend it to anyone seeking employment in the UAE.",
+      "name": "John Kamau"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar5.jpg",
+      "location": "Manila, Philippines",
+      "review": "Thanks to Alghurabi Manpower Services, I landed a job in Dubai within weeks of applying. It's a game-changer!",
+      "name": "Maria Cruz"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar6.jpg",
+      "location": "Cairo, Egypt",
+      "review": "The website's job listings are diverse and cater to different skill sets. I'm impressed by the range of opportunities available.",
+      "name": "Ahmed Abdel-Meguid"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar7.jpg",
+      "location": "Jakarta, Indonesia",
+      "review": "Alghurabi Manpower Services exceeded my expectations. I'm now employed in a reputable company in Abu Dhabi, all thanks to them!",
+      "name": "Siti Nurul"
+    },
+    {
+      "avatar": "assets/images/reviews/avatar8.jpg",
+      "location": "Lagos, Nigeria",
+      "review": "This website truly delivers on its promise of connecting talent with opportunity. I'm grateful for the chance to work in Dubai!",
+      "name": "Chinedu Okonkwo"
+    }
+  ]

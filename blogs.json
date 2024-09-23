@@ -1,0 +1,54 @@
+{
+    "row1": [
+        {
+            "img": "assets/images/blog/article1.jpeg",
+            "title": "The Importance of Professional Recruitment",
+            "author": "admin",
+            "date": "march 2013",
+            "desc": "Professional recruitment is a vital yet often underestimated aspect of business success. It involves identifying and hiring the most suitable candidates for a job, a process that can significantly impact a company's financial resources and efficiency. This article emphasizes the critical role of professional recruitment, highlighting why companies must prioritize and execute it effectively for long-term success.",
+            "link": "article1.html"
+        },
+        {
+            "img": "assets/images/blog/article2.jpeg",
+            "title": "Challenges faced by modern recruiters around the world",
+            "author": "admin",
+            "date": "May 2013",
+            "desc": "This is a post about the challenges faced by modern recruiters around the world. It is a difficult job to find the right candidate for a job, and it is even more difficult to find the right candidate for a job in a different country. This post will discuss some of the challenges faced by modern recruiters around the world and how they can overcome them.",
+            "link": "article2.html"
+        },
+        {
+            "img": "assets/images/blog/article3.webp",
+            "title": "Improvements and Skills that can be adopted by modern recruiters",
+            "author": "admin",
+            "date": "August 2013",
+            "desc": "Modern recruiters can adopt a variety of improvements and skills to improve their recruitment process. This post will discuss some of the improvements and skills that modern recruiters can adopt to improve their recruitment process. It will also discuss some of the challenges faced by modern recruiters and how they can overcome them.",
+            "link": "article3.html"
+        }
+    ],
+    "row2": [
+        {
+            "img": "assets/images/blog/article4.webp",
+            "title": "The future of Recruitment",
+            "author": "admin",
+            "date": "September 2013",
+            "desc": "In an era defined by rapid technological advancements, the future of recruitment is a topic that is on the minds of many. This post will discuss some of the trends and changes that are expected to shape the future of recruitment. It will also discuss some of the challenges that recruiters will face in the future and how they can overcome them.",
+            "link": "article4.html"
+        },
+        {
+            "img": "assets/images/blog/article5.webp",
+            "title": "What to look for in employees as a recruiter",
+            "author": "admin",
+            "date": "January 2014",
+            "desc": "As a recruiter, there are several things that you should look for in employees. This post will discuss some of the things that you should look for in employees as a recruiter. It will also discuss some of the challenges that recruiters face when looking for employees and how they can overcome them.",
+            "link": "article5.html"
+        },
+        {
+            "img": "assets/images/blog/article6.webp",
+            "title": "The loop holes around employees and employers from a recruitment perspective",
+            "author": "admin",
+            "date": "Feb 2020",
+            "desc": "From a recruitment perspective, there are several loopholes around employees and employers. This post will discuss some of the loopholes around employees and employers from a recruitment perspective. It will also discuss some of the challenges that recruiters face when dealing with employees and employers and how they can overcome them.",
+            "link": "article6.html"
+        }
+    ]
+}

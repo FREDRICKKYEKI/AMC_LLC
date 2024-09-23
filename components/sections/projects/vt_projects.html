@@ -1,0 +1,32 @@
+<section id="projects" class="explore" vt_imports="['components/sections/projects/vt_project_card.html']">
+    <style>
+        .single-explore-txt h2 a {
+            color: var(--color-primary);
+        }
+        .manpower strong {
+            font-weight: 600;
+            color: var(--color-black);
+        }
+    </style>
+    <div class="container">
+        <div class="section-header">
+            <h2>projects</h2>
+            <p>
+                Here's an outline of nine major projects that have taken place in the Gulf countries over
+                the last 10 years, requiring significant manpower:
+            </p>
+        </div><!--/.section-header-->
+        <div class="explore-content">
+            <div class="row">
+                <vt_project_card vt:map-from-file="projects.json::row1" />
+            </div>
+            <div class="row">
+                <vt_project_card vt:map-from-file="projects.json::row2" />
+            </div>
+            <div class="row">
+                <vt_project_card vt:map-from-file="projects.json::row3" />
+            </div>
+        </div>
+    </div><!--/.container-->
+
+</section><!--/.explore-->

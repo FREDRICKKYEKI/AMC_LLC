@@ -1,0 +1,47 @@
+<vt_frag vt_imports="['components/header/vt_header.html', 'components/sections/vt_home.html',
+'components/sections/vt_topics.html', 'components/sections/vt_about.html',
+'components/sections/projects/vt_projects.html', 'components/sections/reviews/vt_reviews.html',
+'components/sections/vt_stats.html', 'components/sections/blogs/vt_blogs.html',
+'components/footer/vt_footer.html', 'components/sections/subscription/vt_sub.html']"
+ vt:parent="components/Base.html" title="AMS LLC">
+	<!--header-top start -->
+	<vt_header vt:from-file="creds.json" />
+	<!--header-top end -->
+
+	<!--welcome-hero start -->
+	<vt_home />
+	<!--welcome-hero end -->
+
+	<!--list-topics start -->
+	<vt_topics />
+	<!--list-topics end-->
+
+	<!--works start -->
+	<vt_about />
+	<!--works end -->
+
+	<!--explore start -->
+	<vt_projects />
+	<!--explore end -->
+
+	<!--reviews start -->
+	<vt_reviews />
+	<!--reviews end -->
+
+	<!-- statistics strat -->
+	<vt_stats vt:from-file="stats.json" />
+	<!-- statistics end -->
+
+	<!--blog start -->
+	<vt_blogs />
+	<!--blog end -->
+
+	<!--subscription start -->
+	<vt_sub />
+	<!--subscription end -->
+
+	<!--footer start-->
+	<vt_footer vt:from-file="creds.json"/>
+	<!--footer end-->
+
+</vt_frag>

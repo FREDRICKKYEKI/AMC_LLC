@@ -1,0 +1,71 @@
+{
+    "row1": [
+        {
+            "title": "Dubai Expo 2020 (now held in 2021 due to COVID-19)",
+            "description": "A world exposition held in Dubai, UAE, showcasing innovation",
+            "manpower": " Required a large workforce for construction, event management, hospitality, security, transportation, and various support services.",
+            "link": "https://www.expo2020dubai.com/",
+            "img": "p1.jpg"
+        },
+        {
+            "title": "King Abdullah Economic City (KAEC), Saudi Arabia",
+            "description": "A mega-development project initiated by the Saudi government to diversify the economy and create jobs.",
+            "manpower": " Involved construction, infrastructure development, manufacturing, logistics, and service industries, requiring a significant workforce.",
+            "link": "https://www.kaec.net/",
+            "img": "p2.png"
+        },
+        {
+            "title": "Qatar 2022 FIFA World Cup",
+            "description": "Qatar hosted the FIFA World Cup in 2022, requiring extensive infrastructure development, stadium construction, transportation systems, and hospitality services.",
+            "manpower": "Demand for skilled and unskilled labor across various sectors, including construction, engineering, hospitality, transportation, and event management.",
+            "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022",
+            "img": "p3.webp"
+        }
+    ],
+    "row2": [
+        {
+            "title": "Yas Island Development, Abu Dhabi, UAE",
+            "description": "A major leisure and entertainment destination in Abu Dhabi, featuring theme parks, hotels, malls, and residential communities.",
+            "manpower": "Large-scale construction projects, hospitality services, retail operations, and event management, requiring a diverse workforce.",
+            "link": "https://yasisland.ae/",
+            "img": "p4.avif"
+        },
+        {
+            "title": "Doha Metro Project, Qatar",
+            "description": "A multi-billion-dollar project to develop an integrated metro system in Doha, Qatar, ahead of the 2022 FIFA World Cup.",
+            "manpower": "Required skilled labor for tunneling, construction, engineering, project management, and operations across multiple phases of development.",
+            "link": "https://db-engineering-consulting.com/en/projects/doha-metro-qatar/",
+            "img": "p5.jpg"
+        },
+        {
+            "title": "Red Sea Project, Saudi Arabia",
+            "description": "A tourism and hospitality project along the Red Sea coast of Saudi Arabia, aimed at developing luxury resorts, cultural attractions, and nature reserves.",
+            "manpower": "Involved construction, landscaping, hospitality, environmental conservation, and tourism services, requiring a large workforce.",
+            "link": "https://www.redseaglobal.com/en",
+            "img": "p6.svg"
+        }
+    ],
+    "row3": [
+        {
+            "title": "Abu Dhabi Vision 2030",
+            "description": "Abu Dhabi's long-term economic development plan aimed at diversifying the economy, promoting innovation, and creating sustainable growth.",
+            "manpower": "Various initiatives across sectors such as renewable energy, technology, healthcare, education, and infrastructure development, requiring skilled professionals and laborers.",
+            "link": "https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/strategies-plans-and-visions/finance-and-economy/abu-dhabi-economic-vision-2030",
+            "img": "p7.jpg"
+        },
+        {
+            "title": "Neom Project, Saudi Arabia",
+            "description": "A futuristic city development project in Saudi Arabia, aiming to create a sustainable and technologically advanced urban center.",
+            "manpower": "Involved infrastructure projects, healthcare initiatives, education reforms, and investment in various sectors, creating job opportunities across different industries.",
+            "link": "https://www.neom.com/",
+            "img": "p8.jpg"
+        },
+        {
+            "title": "Kuwait National Development Plan (New Kuwait 2035)",
+            "description": "Kuwait's strategic development plan aimed at diversifying the economy, improving infrastructure, and enhancing public services.",
+            "manpower": "Involved infrastructure projects, healthcare initiatives, education reforms, and investment in various sectors, creating job opportunities across different industries.",
+            "link": "https://www.newkuwait.gov.kw/",
+            "img": "p9.png"
+        }
+    ]
+}
